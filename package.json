@@ -105,7 +105,7 @@
     "copy-webpack-plugin": "4.0.1",
     "css-loader": "0.26.1",
     "eventsource-polyfill": "0.9.6",
-    "extract-text-webpack-plugin": "2.0.0-rc.2",
+    "@insin/extract-text-webpack-plugin": "2.0.0-rc.2.e8e97806",
     "file-loader": "0.10.0",
     "html-webpack-plugin": "2.28.0",
     "@insin/npm-install-webpack-plugin": "4.0.4-3ee2c673",
